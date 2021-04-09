@@ -2,7 +2,7 @@
 An all-in-one, vr hand glove with finger tracking for less than £50
 
 ## An example of what this project can do:
-[![Fngrs Demo](https://img.youtube.com/vi/AnlR8ik4xHY/0.jpg)](https://www.youtube.com/watch?v=AnlR8ik4xHY)
+[![Fngrs Demo](https://img.youtube.com/vi/FPaCHbXl4mU/0.jpg)](https://www.youtube.com/watch?v=FPaCHbXl4mU)
 ## Credit
 I would like to thank [@spayne](https://github.com/spayne) for his soft_knuckles example repo, which was a great help in setting up this project. 
 ## Status: Proof Of Concept
