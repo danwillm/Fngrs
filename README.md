@@ -1,7 +1,7 @@
 # Fngrs
 An all-in-one, vr hand glove with finger tracking for less than £50
 
-The SteamVR driver can be located here: https://github.com/LucidVR/opengloves-driver
+The SteamVR driver Lucas and I have been developing for both our projects can be located here: https://github.com/LucidVR/opengloves-driver
 
 ## An example of what this project can do:
 [![Fngrs Demo](https://img.youtube.com/vi/FPaCHbXl4mU/0.jpg)](https://www.youtube.com/watch?v=FPaCHbXl4mU)
